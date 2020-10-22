@@ -33,6 +33,14 @@
     font-size: 1.2rem;
 }
 
+.btn--md{
+    padding: 10px 20px;
+    margin: 0px;
+    font-size: 1.2rem;
+    height: 60px;
+    text-align: center;
+}
+
 .btn--search{
     border-radius: 0;
 }
