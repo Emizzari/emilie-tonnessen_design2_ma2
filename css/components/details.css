@@ -16,13 +16,28 @@
 
 .product__image--primary{
     margin-bottom: 35px;
+    background-image: url("../../images/owl-1.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    filter: contrast(1);
 }
 
 .product__image--secondary{
-    background: #E3E3E3;
+    background-image: url("../../images/owl-2.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     width: 123px;
     height: 123px;
     padding: 0;
+}
+
+.img-3{
+     background-image: url("../../images/owl-3.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .product__content{
